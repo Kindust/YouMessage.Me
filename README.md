@@ -9,3 +9,4 @@
     With default settings, anyone who visits the link will see every message anyone has sent.  Some users may not like this, so, when you create
     your page, click the "Use a password button".  Then, fill out the provided password form.  Now, when anyone visits your page, they need a
     password to view your messages.  However, anyone can still send messages, just like before.
+ 
