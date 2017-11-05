@@ -1,5 +1,5 @@
 # YouMessage.Me
-## A guide for YouMessage
+## *A guide for YouMessage*
 
 ### What is YouMessage?
     YouMessage is an anonymous messaging website.  You may send anonymous messages to anyone, provided you know their user ID - this ID
