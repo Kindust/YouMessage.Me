@@ -29,8 +29,8 @@ Go to the home page, and scroll to the bottom.  Enter a name, and click "Use a p
 
 Next, click "Create Account".  Now, you have the option to view your page (highlight #1), or copy your link (highlight #2). ![New account](/s3.JPG)
 
-When you're at your new page, this is what you should see.  Note the form titled "**Enter your password to see hidden messages.
-**".  By putting your password into the box & clicking the button, you will be able to view all of your messages. ![Your page](/sa4.JPG)
+When you're at your new page, this is what you should see.  Note the form titled ** "Enter your password to see hidden messages.
+" ** .  By putting your password into the box & clicking the button, you will be able to view all of your messages. ![Your page](/sa4.JPG)
 
 If someone sends you a message, and you check your page, you will see this.  **Note: you will only see those messages once you've entered your password.  Your messages are still safe!** ![Viewing a message](/sa5.JPG)
 
